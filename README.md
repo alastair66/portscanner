@@ -11,7 +11,7 @@ for port in range (edit your range to scan).
 after editing the script press esc then shift + :
 then type wq for write and quit.
 
-#Usage
+#Usage:
 python3 PortScanner.py (Target IP)
 
 
